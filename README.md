@@ -26,7 +26,7 @@
 
 ![toolbar](demopic/toolbar.png)
 
-如果账户为root，也可以看到右上角欢迎界面显示出用户名
+如果账户为 root，也可以看到右上角欢迎界面显示出用户名
 
 ![welcom](demopic/welcomeroot.png)
 
